@@ -1,9 +1,9 @@
 {
   "type": "Text",
   "data": {
-    "text": "<p>somm ummrell</p>"
+    "text": "<p>s<strong>omm ummrell</strong></p>"
   },
   "path": "/text",
   "createdAt": "2018-01-30T19:12:14.102Z",
-  "updatedAt": "2018-01-30T19:18:49.180Z"
+  "updatedAt": "2018-01-31T17:36:05.994Z"
 }
